@@ -5,11 +5,16 @@ import Sidebar from '../Pages/Shared/Sidebar/Sidebar';
 
 const Main = () => {
     return (
-        <div>
+       <div>
+         <div>
             <Header></Header>
+        </div>
+        <div className='flex'>
+            
             <Sidebar></Sidebar>
             <Outlet></Outlet>
         </div>
+       </div>
     );
 };
 

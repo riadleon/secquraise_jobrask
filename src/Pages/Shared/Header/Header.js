@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <header className="p-1  dark:bg-blue-900 dark:text-green-300">
+        <header className="p-1 bg-blue-900 dark:text-green-300">
             <div className="container flex justify-between h-16 mx-auto">
                 <ul className="items-stretch hidden space-x-3 lg:flex">
                     <h3 className='text-3xl font-bold mt-3'>SECQUR<span className='text-red-600 font-bold'>AI</span>SE</h3>
