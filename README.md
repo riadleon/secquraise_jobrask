@@ -1,3 +1,10 @@
+Live site: https://secquraise-jobtask.vercel.app/
+API: https://secquraise-jobtask-server.vercel.app/users
+Server Side: https://github.com/riadleon/secquraise-jobtask-server
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
