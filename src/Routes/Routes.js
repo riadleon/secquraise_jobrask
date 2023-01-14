@@ -14,6 +14,7 @@ const router = createBrowserRouter([
             {
                 path: '/',
                 element: <Home></Home>,
+                loader: () => fetch('https://secquraise-jobtask-server.vercel.app/users'),
 
             },
 
